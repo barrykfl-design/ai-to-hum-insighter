@@ -11,6 +11,8 @@ AI‑to‑Hum Insighter is built to encourage:
 4. 	Clear, human‑friendly AI analysis and recommendations
 5. 	Collaborative improvement between users and IT teams
 
+Download link : https://github.com/barrykfl-design/ai-to-hum-insighter/blob/main/ai-to-hum-insighter.exe
+
 Usage Overview — AI‑to‑Hum Insighter
 👉 This overview emphasizes that humans , while AI provides insights and recommendations to assist in reducing repetitive work and improving productivity.
 
@@ -19,6 +21,7 @@ Usage Overview — AI‑to‑Hum Insighter
 • 	Users log their daily tasks and activities in a simple text file or input format.
 2. 	Analyze with AI‑to‑Hum Insighter
 • 	The assistant processes the activity log and identifies patterns, bottlenecks, and repetitive tasks.
+• 	When time break e.g. lunch,coffee,meeting , please "PAUSE" the program and press again to continue after return.
 3. 	Generate Report
 • 	A structured report is created, including:
 • 	Summary of daily activities
