@@ -5,7 +5,7 @@ The goal is to ensure users remain fully in control while gaining insight into h
 
 AI‑to‑Hum Insighter is built to encourage:
 
-1. 	Promote AI Usage and AI<>Human Interactive
+1. 	Promote AI Usage and AI<>Human Interactive (OPENAI)
 2. 	Greater awareness of daily work habits
 3. 	Identification of repetitive or manual tasks
 4. 	Clear, human‑friendly AI analysis and recommendations
