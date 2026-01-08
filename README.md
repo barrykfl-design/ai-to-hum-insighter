@@ -36,4 +36,4 @@ Usage Overview — AI‑to‑Hum Insighter
 2. 	Respectful support — AI assists, not replaces
 3.	Better awareness of daily work patterns
 4. 	Identification of repetitive or manual tasks
-5. 	Collaboration between users and IT ftake the initiativeor automation and AI solutions
+5. 	Collaboration between users and IT take the initiativeor automation and AI solutions
