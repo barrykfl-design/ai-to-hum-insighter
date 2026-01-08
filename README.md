@@ -5,10 +5,11 @@ The goal is to ensure users remain fully in control while gaining insight into h
 
 AI‑to‑Hum Insighter is built to encourage:
 
-1. 	Promote AI Usage and greater awareness of daily work habits
-2. 	Identification of repetitive or manual tasks
-3. 	Clear, human‑friendly AI analysis and recommendations
-4. 	Collaborative improvement between users and IT teams
+1. 	Promote AI Usage and AI<>Human Interactive
+2. 	Greater awareness of daily work habits
+3. 	Identification of repetitive or manual tasks
+4. 	Clear, human‑friendly AI analysis and recommendations
+5. 	Collaborative improvement between users and IT teams
 
 Usage Overview — AI‑to‑Hum Insighter
 👉 This overview emphasizes that humans , while AI provides insights and recommendations to assist in reducing repetitive work and improving productivity.
