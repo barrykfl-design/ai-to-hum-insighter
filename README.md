@@ -32,8 +32,8 @@ Usage Overview — AI‑to‑Hum Insighter
 • 	Users take the initiative and fully control, reviewing the AI’s reasoning and deciding how to apply the recommendations.
 
 🔹 Benefits
-• 	Transparent view of how AI interprets your work
-• 	Respectful support — AI assists, not replaces
-• 	Better awareness of daily work patterns
-• 	Identification of repetitive or manual tasks
-• 	Collaboration between users and IT ftake the initiativeor automation and AI solutions
+1. 	Transparent view of how AI interprets your work
+2. 	Respectful support — AI assists, not replaces
+3.	Better awareness of daily work patterns
+4. 	Identification of repetitive or manual tasks
+5. 	Collaboration between users and IT ftake the initiativeor automation and AI solutions
