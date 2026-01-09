@@ -21,7 +21,7 @@ Usage Overview — AI‑to‑Hum Insighter
 • 	Users log their daily tasks and activities in a simple text file or input format.
 2. 	Analyze with AI‑to‑Hum Insighter
 • 	The assistant processes the activity log and identifies patterns, bottlenecks, and repetitive tasks.
-• 	When time break e.g. lunch,coffee,meeting , please "PAUSE" the program and press again to continue after return.
+• 	When time break e.g. lunch,coffee,meeting , please "PAUSE" the program and press "RESUME" to continue after return.
 3. 	Generate Report
 • 	A structured report is created, including:
 • 	Summary of daily activities
