@@ -1,2 +1,3 @@
-1. OpenAI api key ( if you can generate report like screen.jpg, mostly the $$$tokens were gone )
+1. OpenAI api key ( if you fail to generate report like screen.jpg, mostly the $$$tokens were gone )
+
 
