@@ -1,4 +1,4 @@
-# ai-to-hum-insighter
+# ai-to-hum-insighter AI與人類 … 啟蒙和觀察
 
 AI‑to‑Hum Insighter is a vibe coding based program designed to help individuals better understand their daily work patterns and how AI can support them in a transparent and empowering way. By allowing users to record their own tasks and activities, the tool generates a clear analysis report that highlights key observations, identifies potential bottlenecks, and offers thoughtful recommendations.
 The goal is to ensure users remain fully in control while gaining insight into how AI interprets their workflow and where it can provide meaningful assistance. The generated report includes a structured summary, root‑cause analysis, and practical suggestions for improving efficiency. It also offers optional recommendations for IT teams, such as opportunities for automation or AI‑assisted enhancements, always with the intention of reducing repetitive work and supporting human productivity.
